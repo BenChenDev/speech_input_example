@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text to Speech Tutorial</string>
+    <string name="action_settings">Settings</string>
+    <string name="read">READ TEXT</string>
+    <string name="test">TEST TTS</string>
+    <string name="testSR">TEST SR</string>
+
+    <string name="speak">Speech Recognition</string>
+</resources>
